@@ -1,1 +1,5 @@
 
+These are the PCB files generated using Autodesk's Eagle CAD package.
+*.sch and *.brd - Eagle Files
+*.zip - gerbers
+pdf's of the schematics too.
